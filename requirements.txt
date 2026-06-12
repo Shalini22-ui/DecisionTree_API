@@ -1,7 +1,0 @@
-joblib
-numpy
-sklearn
-uvicorn
-fastapi
-pandas
-python-multipart
